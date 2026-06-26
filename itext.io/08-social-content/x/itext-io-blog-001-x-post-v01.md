@@ -1,0 +1,1 @@
+Customers ignore your call but read your text in minutes. SMS open rates run ~98%, with replies in ~90 seconds vs. ~90 minutes for email. The phone isn't dead — it just needs a bridge to the channel people actually use.

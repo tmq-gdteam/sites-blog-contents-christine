@@ -1,0 +1,1 @@
+A "paste your URL, done in 30 seconds" chatbot pitch and "we configured consent and guardrails" can't both be fully true. Slick onboarding that skips the digital fence isn't solving your problem — it's handing you the liability.

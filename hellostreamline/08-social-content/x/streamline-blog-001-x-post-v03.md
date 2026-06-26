@@ -1,0 +1,1 @@
+Before you trust an AI orchestration layer with your outbound comms: TCPA penalties (~$500–$1,500/message) have no aggregate cap. One misfire of 10,000 texts is eight-figure exposure. Demand guardrails built into the core, not bolted on.

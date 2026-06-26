@@ -1,0 +1,1 @@
+If your IT budget grows ~3% a year but SaaS prices grow ~11%, that's not a line-item problem — it's a slow-motion solvency problem. "SaaS repatriation" turns inflating rent back into an asset you own.

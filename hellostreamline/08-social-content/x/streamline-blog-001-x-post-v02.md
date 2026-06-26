@@ -1,0 +1,1 @@
+You text a shipping update with a question, then call support — and the agent can't see your text. That's architectural siloing. The fix isn't another app; it's orchestration that connects what you already own.

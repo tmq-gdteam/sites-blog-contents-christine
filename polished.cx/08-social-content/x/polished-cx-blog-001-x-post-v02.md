@@ -1,0 +1,1 @@
+"Zero latency" voice AI is a marketing myth — the physics won't allow it. The honest target is imperceptible latency: fast enough that humans don't notice, under ~150ms. When you evaluate vendors, ask for real numbers, not slogans.

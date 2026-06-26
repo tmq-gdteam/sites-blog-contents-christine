@@ -1,0 +1,1 @@
+The average enterprise runs ~101 SaaS apps, and employees switch between them ~1,200 times a day. That "tool fatigue" drains roughly 44 hours per worker a year. The next app isn't a fix — it's a sixth remote to lose in the couch.

@@ -1,0 +1,1 @@
+"Sorry, can you repeat that?" feels trivial. But one UK analysis pegs a single 15-second repetition at ~4.2% of a call — and the cognitive drain of bad audio is real. Real-time voice AI can cut that friction while keeping a speaker's natural voice. Clarity without erasure.

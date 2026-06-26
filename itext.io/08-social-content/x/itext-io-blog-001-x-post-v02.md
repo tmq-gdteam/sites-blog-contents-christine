@@ -1,0 +1,1 @@
+Letting staff text customers from personal phones feels easy — until an employee leaves with the customer history, or someone replies "STOP" and you never know. Personal devices destroy your audit trail and your compliance.

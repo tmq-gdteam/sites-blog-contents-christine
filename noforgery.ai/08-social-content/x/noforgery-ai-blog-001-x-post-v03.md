@@ -1,0 +1,1 @@
+"99% accurate" deepfake detection means little if the missing 1% locks out your CEO mid-deal. Ask vendors for cost-weighted accuracy, attested on-device "zero retention," and a human in the loop — not headline numbers.

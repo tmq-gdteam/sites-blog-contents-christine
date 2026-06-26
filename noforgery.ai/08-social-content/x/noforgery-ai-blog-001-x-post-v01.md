@@ -1,0 +1,1 @@
+Humans correctly spot an audio deepfake only ~54% of the time — barely better than a coin flip. A familiar voice is no longer proof of identity. For high-risk calls, the single-check verification is the real vulnerability.

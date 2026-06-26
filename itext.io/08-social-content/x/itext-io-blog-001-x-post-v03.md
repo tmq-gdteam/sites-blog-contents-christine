@@ -1,0 +1,1 @@
+"Instant setup" for business texting only means the dashboard turns on — not that you're cleared to send. Carriers gate access through 10DLC registration, and TCPA fines can hit ~$1,500 per unauthorized message. Compliance isn't a footnote.

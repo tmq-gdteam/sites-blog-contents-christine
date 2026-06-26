@@ -1,0 +1,1 @@
+Of every 100 visitors to an average business site, only ~1.4% become leads. Most wanted to buy — then hit an eight-field form that feels like an interrogation. The fix is a conversation, not a longer form.

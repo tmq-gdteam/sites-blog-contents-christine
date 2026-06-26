@@ -1,0 +1,1 @@
+Before you automate reminders: under the TCPA, "STOP" has to halt everything instantly, and carriers block texts from unregistered numbers (10DLC). Proactive scheduling works — but only with consent and a human fallback.

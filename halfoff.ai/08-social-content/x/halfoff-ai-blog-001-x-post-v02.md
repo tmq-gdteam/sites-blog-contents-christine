@@ -1,0 +1,1 @@
+Your SaaS vendor won't email "we raised your price 11%." They bundle AI you didn't ask for and swap flat pricing for opaque credits. The headline fee holds steady while your real cost per workflow quietly climbs.

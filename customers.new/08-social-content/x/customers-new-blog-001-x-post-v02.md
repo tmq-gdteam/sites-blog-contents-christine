@@ -1,0 +1,1 @@
+A chatbot is no longer a novelty — courts now treat it as a binding company rep. Air Canada had to honor a refund policy its bot invented. If you let AI talk to customers, fence it inside your own approved content.

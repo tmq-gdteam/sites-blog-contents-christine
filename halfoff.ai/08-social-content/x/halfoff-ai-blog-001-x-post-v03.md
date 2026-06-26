@@ -1,0 +1,1 @@
+"Free" open source is free like a free puppy. The version that actually saves money is managed open source — a provider absorbs hosting, patching, and uptime for one predictable fee. Predictability, not "free," is what caps exposure.

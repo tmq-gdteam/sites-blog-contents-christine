@@ -1,0 +1,1 @@
+Nearly 1 in 4 booked meetings never happens. The global no-show rate sits around 23% — and a passive booking link does nothing to stop it. The fix isn't a prettier link; it's active reminders on channels people actually read.

@@ -1,0 +1,1 @@
+The six-digit code texted to your phone feels secure. It's a key under the doormat — liftable via SIM swaps and aging telecom routing. Regulators are already mandating the phase-out of SMS OTPs for high-risk transactions.
